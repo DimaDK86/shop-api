@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Электроника", "slug": "electronics" },
+  { "id": 2, "name": "Одежда", "slug": "clothing" },
+  { "id": 3, "name": "Книги", "slug": "books" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Смартфон", "price": 29999, "categoryId": 1, "stock": 10 },
+  { "id": 2, "name": "Футболка", "price": 1999, "categoryId": 2, "stock": 50 },
+  { "id": 3, "name": "Роман «Мастер и Маргарита»", "price": 899, "categoryId": 3, "stock": 25 }
+]
